@@ -1,0 +1,9 @@
+{
+  "name": "OurMoments",
+  "description": "A shared couple's photo album featuring an interactive map, timeline, and a conversational AI assistant for reliving memories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
